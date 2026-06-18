@@ -75,7 +75,7 @@ The preprocessing pipeline successfully transformed the raw customer dataset int
 * Data Validation and Quality Assurance
 * Practical Use of Pandas for Data Preprocessing
 
- Author
+ ## Author
 
 Samiksha Kamble
 
