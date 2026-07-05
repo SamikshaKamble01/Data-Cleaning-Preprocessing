@@ -63,7 +63,6 @@ The preprocessing pipeline successfully transformed the raw customer dataset int
 
 <img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/5c4c6b69-7623-44d8-b133-0088a01f2c64" />
 
-
 <img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/f9469a44-77e7-4e84-9d14-fbb8824f8def" />
 
   ## Key Learning Outcomes
