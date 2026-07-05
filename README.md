@@ -5,7 +5,6 @@
 Data quality plays a crucial role in data analysis and machine learning. This project demonstrates the process of cleaning and preprocessing a customer dataset using Python and the Pandas library. The objective is to transform raw and unstructured data into a clean, consistent, and analysis-ready format.
 
 ## Objectives
-
 * Import and explore the dataset.
 * Identify and remove duplicate records.
 * Detect and handle missing values.
@@ -15,7 +14,6 @@ Data quality plays a crucial role in data analysis and machine learning. This pr
 * Export the cleaned dataset for future analysis.
 
 ## Tools and Technologies
-
 * Python
 * Pandas
 * NumPy
