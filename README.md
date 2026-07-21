@@ -56,7 +56,6 @@ The processed dataset was validated to ensure:
 
 The preprocessing pipeline successfully transformed the raw customer dataset into a clean, structured, and analysis-ready dataset. The resulting dataset can be effectively utilized for data analysis, visualization, and machine learning applications.
 
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3f39bda-2a35-4a16-8c49-cfe56f1b8851" />
 
 <img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/5c4c6b69-7623-44d8-b133-0088a01f2c64" />
